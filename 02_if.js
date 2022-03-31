@@ -46,9 +46,10 @@ console.log(test3);
  * 変数baseの値を変更して回答してください
  */
 const base2 = 'false';
-const test5 = base2 ? 'left param' : 'right param';
-console.log(test5);
 
+const test5 = base2 ? 'left param' : 'right param';
+
+console.log(test5);
 
 
 /**

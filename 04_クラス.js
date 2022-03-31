@@ -9,6 +9,7 @@
  *
  */
 
+ 
 /**
  * 問2. newとは何か説明してください
  */
@@ -23,6 +24,7 @@
 /**
  * 問3. Personクラスを変数に格納し、文字列yourNameをクラスから呼び出してconsoleから表示してください
  */
+
 class Person {
   constructor(name) {
     this.name = name;
